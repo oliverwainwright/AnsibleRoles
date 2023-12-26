@@ -1,2 +1,17 @@
-[servers]
-192.168.56.143
+rhel:
+  hosts:
+    coachprime.owlabz.lab:
+    kobe.owlabz.lab:
+rpi:
+  hosts:
+    jimbrown.owlabz.lab:
+    smokey.owlabz.lab:
+ubuntu:
+  hosts:
+    whogotcha.com:
+freebsd:
+  hosts:
+    jordan.owlabz.lab:
+openbsd:
+  hosts:
+    bobhayes.owlabz.lab:
